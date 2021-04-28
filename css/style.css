@@ -1,0 +1,43 @@
+html{
+    font-size: 20px;
+}
+.map {
+    top: 40px;
+    left: 100px;
+    right: 0px;
+    bottom: 0px;
+    
+}
+.head {
+    background: #F5B85C 
+    
+}
+.two{
+    height: 840px;
+}
+.filter{
+    background: #D8D8D9
+}
+.floor{
+    background: black
+}
+.circle1{
+    width: 150px;
+    height: 35px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    background: #D8D8D9
+}
+.link{
+color: #000000;
+text-decoration: none;
+}
+.img{
+    left: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 15px;
+    width: auto; 
+    height: 90%; 
+}
